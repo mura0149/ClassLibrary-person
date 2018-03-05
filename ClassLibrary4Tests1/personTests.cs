@@ -17,7 +17,7 @@ namespace ClassLibrary4.Tests
             person p1 = new person();
             string name = p1.Getname();
             Assert.AreEqual("Murat", name);        
-            
+            ///mgskgsm
         }
     }
 }
